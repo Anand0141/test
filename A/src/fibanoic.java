@@ -5,7 +5,7 @@ public class fibanoic {
 		System.out.println("hai");
 		int a=50,b=60;
 		int c=a+b;
-		System.out.println("sum is:"+C);
+		System.out.println("sum is:"+c);
 
 	}
 
